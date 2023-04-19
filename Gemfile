@@ -8,7 +8,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # gem "jekyll", "~> 4.3.2"
-gem "minima", "~> 2.0"
+# gem "minima", "~> 2.0"
 gem "minimal-mistakes-jekyll"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 228", group: :jekyll_plugins
